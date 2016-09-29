@@ -7,5 +7,5 @@ Solution by Matthias Lambrecht
 
 s = raw_input()
 
-if 1 <= s or s <= 500:
+if 1 <= s <= 500:
     print(s)
